@@ -1,5 +1,70 @@
 # ABOUT ME:
-👋 Hi there, <b>I'm Ridhima Yeri!</b><br><br> I'm a Computer Science & Engineering graduate passionate about building impactful tech solutions with a strong foundation in software development, full-stack engineering, Web application development.<br><br><br> I'm currently working on:<br>- Building Full-Stack Web Applications as a Web Development Intern at IOVIS Technologies using NodeJS, ReactJS, HTML5, CSS3, and JavaScript.<br>- Enhancing my portfolio with projects that combine AI and sustainable development.<br><br><br>  I'm looking to collaborate on:<br>- Full-stack development projects, especially those involving ReactJS, NodeJS, Django, and AI-driven platforms.<br>- Open-source initiatives that aim to solve real-world problems with technology.<br><br><br> I'm looking for help with:<br>- Scaling AI applications using LLMs and advanced backend systems.<br>- Best practices for optimizing Django and NodeJS deployments in production environments.<br><br><br>  I'm currently learning:<br>- Advanced ReactJS patterns and Next.js for performance-focused web applications.<br>- Deeper integration of AI/ML in full-stack systems, including LLMs like Mistral AI and platforms like DeepSeek AI.<br><br><br>  Ask me about:<br>- Developing web solutions using Django or PHP.<br>-Python, Java & ReactJS.<br><br> Fun Fact:<br>I blend my technical world with balance — when I'm not coding, you’ll find me swimming, playing badminton, reading fiction, or practicing yoga!<br><br><br> Connect with me:<br>-  [Portfolio](https://portfolio-4n6v.onrender.com)<br>-  [LinkedIn](https://www.linkedin.com/in/ridhimayeri)<br>-  [yeriridhima5@gmail.com](mailto:yeriridhima5@gmail.com)<br><br>
+
+👋 **Hi there, I'm Ridhima Yeri!**
+
+I'm a Computer Science & Engineering graduate passionate about building impactful tech solutions. I have a strong foundation in:
+- Software development
+- Full-stack engineering
+- Web application development
+
+---
+
+## Currently Working On
+- **Building Full-Stack Web Applications**  
+  Web Development Intern at IOVIS Technologies using:
+  - NodeJS
+  - ReactJS
+  - HTML5
+  - CSS3
+  - JavaScript
+- **Enhancing my portfolio**  
+  Projects that combine AI and sustainable development
+
+---
+
+## Looking to Collaborate On
+- Full-stack development projects, especially involving:
+  - ReactJS
+  - NodeJS
+  - Django
+  - AI-driven platforms
+- Open-source initiatives that solve real-world problems with technology
+
+---
+
+## Looking for Help With
+- Scaling AI applications using LLMs and advanced backend systems
+- Best practices for optimizing Django and NodeJS deployments in production environments
+
+---
+
+## Currently Learning
+- Advanced ReactJS patterns and Next.js for performance-focused web apps
+- Deeper integration of AI/ML in full-stack systems, including:
+  - LLMs like Mistral AI
+  - Platforms like DeepSeek AI
+
+---
+
+## Ask Me About
+- Developing web solutions using Django or PHP
+- Python, Java & ReactJS
+
+---
+
+## Fun Fact
+I blend my technical world with balance — when I'm not coding, you’ll find me:
+- Swimming
+- Playing badminton
+- Reading fiction
+- Practicing yoga!
+
+---
+
+## Connect with Me
+- [Portfolio](https://portfolio-4n6v.onrender.com)
+- [LinkedIn](https://www.linkedin.com/in/ridhimayeri)
+- [yeriridhima5@gmail.com](mailto:yeriridhima5@gmail.com)
 
 
 # Tech Stack:
