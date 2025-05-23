@@ -64,7 +64,7 @@ I blend my technical world with balance — when I'm not coding, you’ll find m
 ## Connect with Me
 - [Portfolio](https://portfolio-4n6v.onrender.com)
 - [LinkedIn](https://www.linkedin.com/in/ridhimayeri)
-- [yeriridhima5@gmail.com](mailto:yeriridhima5@gmail.com)
+
 
 
 # Tech Stack:
